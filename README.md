@@ -1,4 +1,4 @@
-I'm Arav
+**I'm Arav**
  - I am a student at Allen High School 🎓 
  - I'm interested in full-stack development, specifically developing web applications and working front-end. 🛠️
 
